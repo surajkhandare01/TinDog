@@ -1,0 +1,11 @@
+.dog{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+
+}
+
